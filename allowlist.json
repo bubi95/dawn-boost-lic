@@ -1,0 +1,4 @@
+{
+  "payload": "{\"v\":1,\"salt\":\"d68e10968001eeb6b737030fc1ee0e24\",\"ids\":[\"aa130403d23980e8243011057f751e15e9b6d58b39c1bcb1d88fa6ca2f3c42d7\",\"d7673d3fec681856e4fe70c75eba99585f0116d36d75c20a8a55a09c10ff81f6\",\"d9a5b73a4b6dab97d47c13715cb24e70a5d1def58f5a28e49733b3ad91a6ad5a\"],\"updated\":\"2026-11-17T16:50:31.733Z\",\"files\":{\"index.ts\":\"e3f2bf74d42a23fd2c4d477ef465c4d56b0543ec12899d2720a2a361d9af3283\",\"native.ts\":\"dd8b0378ae7616410a08970b4a323d2b316a004c6065f2d4490bca98879559fd\"},\"latest\":\"0.5.0\"}",
+  "sig": "UxuWXzMnEE0wE2UVHMcDqQ4m+p5y/jkBLy5ZN5907jDUsLy/kPVQgvkRe9jpK1E2zswwOicbiEA67GC8BKMpqw=="
+}
